@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\bin\Debug\netcoreapp3.1\File4.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\File4\File4\obj\Debug\netcoreapp3.1\File4.genruntimeconfig.cache

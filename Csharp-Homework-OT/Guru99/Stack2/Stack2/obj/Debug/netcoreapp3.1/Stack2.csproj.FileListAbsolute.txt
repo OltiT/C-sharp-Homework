@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\bin\Debug\netcoreapp3.1\Stack2.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stack2\Stack2\obj\Debug\netcoreapp3.1\Stack2.genruntimeconfig.cache

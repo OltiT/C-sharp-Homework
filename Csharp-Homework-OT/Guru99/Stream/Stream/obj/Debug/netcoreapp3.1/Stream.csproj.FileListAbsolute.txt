@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.genruntimeconfig.cache

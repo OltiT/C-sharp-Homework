@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.exe
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.dll
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\bin\Debug\netcoreapp3.1\Detyra8.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.dll
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Programim dhe Web Teknologji\Detyrat\Detyra8\Detyra8\obj\Debug\netcoreapp3.1\Detyra8.genruntimeconfig.cache

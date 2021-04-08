@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.genruntimeconfig.cache

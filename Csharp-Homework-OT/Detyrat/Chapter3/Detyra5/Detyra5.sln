@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detyra5", "Detyra5\Detyra5.csproj", "{390F0FA4-F1FB-4A55-9C3F-DE5D992D80DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390F0FA4-F1FB-4A55-9C3F-DE5D992D80DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390F0FA4-F1FB-4A55-9C3F-DE5D992D80DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390F0FA4-F1FB-4A55-9C3F-DE5D992D80DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390F0FA4-F1FB-4A55-9C3F-DE5D992D80DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {577A2891-ED8E-499A-8BB1-60B178A67AAF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\bin\Debug\netcoreapp3.1\Detyra1.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter4\Detyra1\Detyra1\obj\Debug\netcoreapp3.1\Detyra1.genruntimeconfig.cache

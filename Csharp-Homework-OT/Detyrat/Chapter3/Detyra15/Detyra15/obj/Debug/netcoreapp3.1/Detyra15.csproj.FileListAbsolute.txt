@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\bin\Debug\netcoreapp3.1\Detyra15.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Detyrat\Chapter3\Detyra15\Detyra15\obj\Debug\netcoreapp3.1\Detyra15.genruntimeconfig.cache

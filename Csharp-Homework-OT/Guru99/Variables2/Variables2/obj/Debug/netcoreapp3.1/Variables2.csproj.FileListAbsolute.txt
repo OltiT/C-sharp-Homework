@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.genruntimeconfig.cache

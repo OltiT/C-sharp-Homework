@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

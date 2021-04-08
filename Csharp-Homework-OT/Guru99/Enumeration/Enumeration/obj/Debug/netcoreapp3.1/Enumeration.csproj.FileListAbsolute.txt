@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.genruntimeconfig.cache

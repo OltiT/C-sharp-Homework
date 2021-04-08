@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 2\Hyrje ne Strukture te te Dhenave\Guru99\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache

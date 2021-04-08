@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.exe
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.deps.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.runtimeconfig.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.dll
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\bin\Debug\netcoreapp3.1\DetyreUshtrime.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.dll
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.pdb
+C:\Users\Admin\Desktop\Universum\Semestri 1\Hyrje ne Strukture te te Dhenave\Chapter2\DetyreUshtrime\DetyreUshtrime\obj\Debug\netcoreapp3.1\DetyreUshtrime.genruntimeconfig.cache
